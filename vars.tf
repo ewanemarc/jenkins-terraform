@@ -7,7 +7,7 @@ variable "region" {
 }
 
 variable "ami_id" {
-  default = " ami-09246ddb00c7c4fef"
+  default = "ami-09246ddb00c7c4fef"
 }
 
 variable "name" {
